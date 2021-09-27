@@ -1,0 +1,65 @@
+{
+  "id": "2826972",
+  "name": "font",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2076358",
+      "name": "返回箭头",
+      "font_class": "return",
+      "unicode": "e8b5",
+      "unicode_decimal": 59573
+    },
+    {
+      "icon_id": "1555835",
+      "name": "movie",
+      "font_class": "movie",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "6260311",
+      "name": "我的",
+      "font_class": "mine",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "11800276",
+      "name": "视频",
+      "font_class": "video",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "16505900",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e7f3",
+      "unicode_decimal": 59379
+    },
+    {
+      "icon_id": "1089767",
+      "name": "三角",
+      "font_class": "sanjiao",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "19030132",
+      "name": "Ticket Star",
+      "font_class": "TicketStar",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "4942661",
+      "name": "视频",
+      "font_class": "minivideo",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}
